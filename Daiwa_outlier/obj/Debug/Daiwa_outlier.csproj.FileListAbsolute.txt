@@ -1,0 +1,10 @@
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\bin\Debug\Daiwa_outlier.exe.config
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\bin\Debug\Daiwa_outlier.exe
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\bin\Debug\Daiwa_outlier.pdb
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\obj\Debug\Daiwa_outlier.csprojAssemblyReference.cache
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\obj\Debug\Daiwa_outlier.Form1.resources
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\obj\Debug\Daiwa_outlier.Properties.Resources.resources
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\obj\Debug\Daiwa_outlier.csproj.GenerateResource.cache
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\obj\Debug\Daiwa_outlier.csproj.CoreCompileInputs.cache
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\obj\Debug\Daiwa_outlier.exe
+C:\Randeep\Proffessional\Coding tests\Daiwa\Daiwa_outlier\Daiwa_outlier\obj\Debug\Daiwa_outlier.pdb
